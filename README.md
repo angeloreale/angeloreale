@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi! I'm Angelo. 👋🏽 
 
-Hi! I'm Angelo. 👋🏽 
-
-I'm a Principal Engineer at Arc.dev 👨‍🏫🚀 and Founder at DreamPip 💭📈.
+## I'm a Principal Engineer at Arc.dev 👨‍🏫🚀 and Founder at DreamPip 💭📈.
 
 With 15+ years in the industry, I've partnered with renowned organizations like United Nations, Uber, Ogilvy, Verisk and MongoDB, among others 🏢. 
 
