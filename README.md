@@ -8,9 +8,9 @@ I did study rocket science 🚀 at Castelldefels School of Telecommunications an
 
 As a Principal Engineer, I don't just architect elegant solutions and specs, translate business needs, or ensure high code quality; I'm also passionate about mentoring junior colleagues, sharing knowledge across departments, and engaging in critical and strategic roadmap conversations from both a technical and business standpoints.
 
-- [\[📜 resume\]](https://angeloreale.com/cv)  
-- [\[🤯 books, drafts, loops and tweets\]](https://angeloreale.com)   
 - [\[🛰️ radio fintech\]](https://www.dreampip.com)
+- [\[🤯 books, drafts, loops and tweets\]](https://angeloreale.com)   
+- [\[📜 resume\]](https://angeloreale.com/cv)  
 
 <!--
 **angeloreale/angeloreale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
