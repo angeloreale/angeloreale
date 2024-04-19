@@ -10,7 +10,7 @@ As a Principal Engineer, I don't just architect elegant solutions and specs, tra
 
 - [\[🛰️ radio fintech\]](https://www.dreampip.com)
 - [\[🤯 books, drafts, loops and tweets\]](https://angeloreale.com)
-- [\[☕ let's share some coffee\]](https://angeloreale.com)   
+- [\[☕ let's share some coffee\]](https://angeloreale.com/bookings)   
 - [\[📜 resume\]](https://angeloreale.com/cv)  
 
 <!--
