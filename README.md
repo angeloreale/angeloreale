@@ -1,11 +1,12 @@
 ## Hi! I'm Angelo Reale. 👋🏽 
 ### I'm Intellectually Gifted. 🧠
-### I've also borrowed some roles as: 
-#### 🪷 Founder of UṆĀ.
-#### 🪙 Founder of DreamPip.
-#### ⚙️ Principal Engineer at Arc.dev. 
 
-#### Always to some nice tune 📻.
+#### I've also borrowed some roles as: 
+- 🪷 Founder of UṆĀ.
+- 🪙 Founder of DreamPip.
+- ⚙️ Principal Engineer at Arc.dev. 
+
+### Always to some nice tune 📻.
 
 With 15+ years in the industry, I've worked with renowned organisations and projects like 🌫️ United Nations, Uber, Ogilvy, Verisk, Honda, Houston Spaceport, Noema Magazine, American Nutrition Association, Heart Rhythm Society, Kespry, Braskem, Gibney Dance, Intrinio, Parking.com and MongoDB, among others 🏢. I did study rocket science 🚀 at Castelldefels School of Telecommunications and Aerospace Engineering. But my ship sailed a while ago.
 
