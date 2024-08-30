@@ -1,12 +1,21 @@
-## Hi! I'm Angelo Reale Caldwell von Lehman. 👋🏽 
+## Hi! I'm Angelo Reale. 👋🏽 
 
 ### I'm a Principal Engineer at Arc.dev 👨‍🏫🛳️ and Founder at DreamPip 💭📈.
 
-With 15+ years in the industry, I've partnered with renowned organizations like United Nations, Uber, Ogilvy, Verisk and MongoDB, among others 🏢.
+## Hi! I'm Angelo Reale. 
+### 👋🏽 I'm Intellectually Gifted. 
+### 🧠 I've also borrowed some roles as: 
+#### 🪷 Founder of UṆĀ.
+#### 🪙 Founder of DreamPip.
+#### ⚙️ Principal Engineer at Arc.dev. 
 
-I did study rocket science 🚀 at Castelldefels School of Telecommunications and Aerospace Engineering. But my ship sailed a while ago.
+#### Always to some nice tune 📻.
 
-As a Principal Engineer, I don't just architect elegant solutions and specs, translate business needs, or ensure high code quality; I'm also passionate about mentoring junior colleagues, sharing knowledge across departments, and engaging in critical and strategic roadmap conversations from both a technical and business standpoints.
+With 15+ years in the industry, I've worked with renowned organisations and projects like 🌫️ United Nations, Uber, Ogilvy, Verisk, Honda, Houston Spaceport, Noema Magazine, American Nutrition Association, Heart Rhythm Society, Kespry, Braskem, Gibney Dance, Intrinio, Parking.com and MongoDB, among others 🏢. I did study rocket science 🚀 at Castelldefels School of Telecommunications and Aerospace Engineering. But my ship sailed a while ago.
+
+As Principal Engineer at Arc.dev, my recent endeavors include elevating R&D departments and nurturing software engineering talent across diverse global markets. My competencies lie in creating robust solutions and fostering team growth, with a focus on mentoring and strategic guidance.
+
+Previously, as a Senior Software Engineer, I combined technical prowess with a keen understanding of sustainability, proactively contributing to discussions that bridge technology and business. My mission is to drive innovation and excellence within the tech landscape, ensuring sustainable practices are at the forefront of development.
 
 - [\[🛰️ radio fintech\]](https://www.dreampip.com)
 - [\[🤯 books, drafts, loops and tweets\]](https://angeloreale.com)
