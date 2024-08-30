@@ -1,10 +1,6 @@
 ## Hi! I'm Angelo Reale. 👋🏽 
-
-### I'm a Principal Engineer at Arc.dev 👨‍🏫🛳️ and Founder at DreamPip 💭📈.
-
-## Hi! I'm Angelo Reale. 
-### 👋🏽 I'm Intellectually Gifted. 
-### 🧠 I've also borrowed some roles as: 
+### I'm Intellectually Gifted. 🧠
+### I've also borrowed some roles as: 
 #### 🪷 Founder of UṆĀ.
 #### 🪙 Founder of DreamPip.
 #### ⚙️ Principal Engineer at Arc.dev. 
