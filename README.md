@@ -1,4 +1,4 @@
-## Hi! I'm Sir Angelo Reale, KSS. 👋🏽 
+## Hi! I'm Lord Angelo Reale. 👋🏽 
 ### I'm Intellectually Gifted. 🧠
 
 #### I've also borrowed some roles as: 
