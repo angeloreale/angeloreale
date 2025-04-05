@@ -2,7 +2,7 @@
 
 [@lordangeloreale.](https://instagram.com/lordangeloreale)
 
-🎖️ MVO, KCPO, GOC.
+🎖️ Earl, MVO, KCPO, GOC.
 
 🧠 GT, HA 🏡 ISFJ 🏢 ENTJ.
 
