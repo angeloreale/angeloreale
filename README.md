@@ -15,19 +15,7 @@
 🎭 [@lobaomisterlupi](https://instagram.com/lobaomisterlupi), [@cortisoljesus](https://instagram.com/cortisoljesus).
 
 
-🌫️ United Nations, McKinsey, Faelba,
-
-Uber, Braskem, MongoDB, Verisk,
-
-Ogilvy, Honda, Houston Spaceport, 
-
-American Nutrition Association,
-
-Heart Rhythm Society, Intrinio,
-
-Gibney Dance, Parking.com,
-
-Noema Magazine.
+🌫️ United Nations, McKinsey, Faelba, Uber, Braskem, MongoDB, Verisk, Ogilvy, Honda, Houston Spaceport,  American Nutrition Association, Heart Rhythm Society, Intrinio, Gibney Dance, Parking.com, Noema Magazine.
 
 
 https://angeloreale.com
