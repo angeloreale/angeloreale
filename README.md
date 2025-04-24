@@ -1,23 +1,7 @@
 # Lord Angelo Reale.
 
-[@lordangeloreale.](https://instagram.com/lordangeloreale)
+💼 Full Stack Software Engineer 🔳 Former Italian Secret Service, MongoDB, Verisk, Ogilvy.
 
-🎖️ Earl, MVO, KCPO, GOC.
+As a Full Stack Software Engineer and hands-on Developer, I lead projects from idea to execution, blending deep technical skills with a focus on sustainability and a strong team culture. I’m all about driving innovation, mentoring others, and keeping a balance between productivity and well-being while making sure tech and business stay aligned.
 
-🧠 GT, HA 🏡 ISFJ 🏢 ENTJ.
-
-💼 Aspiring Diplomat, Distinguished Engineer, Former Italian Secret Service Officer. 
-
-🚀 Founder, Investor, Artist. 
-
-🪷 [@dreampipcom](https://instagram.com/dreampipcom), [@unaltru](https://instagram.com/unaltru).
-
-🎭 [@lobaomisterlupi](https://instagram.com/lobaomisterlupi), [@cortisoljesus](https://instagram.com/cortisoljesus).
-
-
-🌫️ United Nations, McKinsey, Faelba, Uber, Braskem, MongoDB, Verisk, Ogilvy, Honda, Houston Spaceport,  American Nutrition Association, Heart Rhythm Society, Intrinio, Gibney Dance, Parking.com, Noema Magazine.
-
-
-https://angeloreale.com
-
-https://dpip.cc
+With 15+ years in the industry, I've worked with renowned organisations and projects like 🌫️ United Nations, Uber, Ogilvy, Verisk, Honda, Houston Spaceport, Noema Magazine, American Nutrition Association, Heart Rhythm Society, Kespry, Braskem, Gibney Dance, Intrinio, Parking.com and MongoDB, among others 🏢.
