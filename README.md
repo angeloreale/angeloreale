@@ -1,7 +1,7 @@
 # Angelo Reale.
 
-### 💼 Sr. Full Stack Software Engineer. 
-### 🔳 Former MongoDB, Honda, Verisk, Ogilvy. 🦾 React, Node, Typescript, MongoDB.
+### 💼  Sr. Full Stack Software Engineer. 
+#### 🔳  Former MongoDB, Honda, Verisk, Ogilvy. 🦾 React, Node, Typescript, MongoDB.
 
 As a Senior Software Engineer and hands-on Full Stack Developer, I lead projects from idea to execution, blending deep technical skills with a focus on sustainability and a strong team culture. I’m all about driving innovation, mentoring others, and keeping a balance between productivity and well-being while making sure tech and business stay aligned 💪.
 
