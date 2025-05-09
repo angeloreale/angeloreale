@@ -1,4 +1,4 @@
-# Angelo Reale.
+# Ld. Angelo Reale
 
 ### 💼  Sr. Full Stack Software Engineer. 
 #### 🔳  Former MongoDB, Honda, Verisk, Ogilvy. 🦾 React, Node, Typescript, MongoDB.
